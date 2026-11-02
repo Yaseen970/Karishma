@@ -26,6 +26,5 @@ export const JOURNEY = [
  ['Leadership','Counsellor, Organization of Voice for Girls','Communicated complex information clearly to diverse stakeholders, a skill I bring to client-facing engineering.'],
  ['Certifications','AWS Cloud Virtual Foundations · Microsoft 365 Fundamentals','Amazon Web Services · Microsoft'],
 ]
-export const CONTACT = { email:'shaikarish220@gmail.com',, place:'Mississauga, ON, Canada' }
-
+export const CONTACT = { email:'shaikarish220@gmail.com', place:'Mississauga, ON, Canada' }
 export const CHIPS = ['Full-Stack','AI-Assisted Dev','Data Science','Cloud & DevOps','React & Node']
